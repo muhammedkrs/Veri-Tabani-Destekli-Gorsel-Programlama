@@ -1,0 +1,13 @@
+C:\Users\Muhammed\source\repos\veri tabanı destekli görsel programlama\veri tabanı destekli görsel programlama\bin\Debug\veri tabanı destekli görsel programlama.exe.config
+C:\Users\Muhammed\source\repos\veri tabanı destekli görsel programlama\veri tabanı destekli görsel programlama\bin\Debug\veri tabanı destekli görsel programlama.exe
+C:\Users\Muhammed\source\repos\veri tabanı destekli görsel programlama\veri tabanı destekli görsel programlama\bin\Debug\veri tabanı destekli görsel programlama.pdb
+C:\Users\Muhammed\source\repos\veri tabanı destekli görsel programlama\veri tabanı destekli görsel programlama\obj\Debug\veri tabanı destekli görsel programlama.csproj.AssemblyReference.cache
+C:\Users\Muhammed\source\repos\veri tabanı destekli görsel programlama\veri tabanı destekli görsel programlama\obj\Debug\veri_tabanı_destekli_görsel_programlama.Form1.resources
+C:\Users\Muhammed\source\repos\veri tabanı destekli görsel programlama\veri tabanı destekli görsel programlama\obj\Debug\veri_tabanı_destekli_görsel_programlama.Properties.Resources.resources
+C:\Users\Muhammed\source\repos\veri tabanı destekli görsel programlama\veri tabanı destekli görsel programlama\obj\Debug\veri tabanı destekli görsel programlama.csproj.GenerateResource.cache
+C:\Users\Muhammed\source\repos\veri tabanı destekli görsel programlama\veri tabanı destekli görsel programlama\obj\Debug\veri tabanı destekli görsel programlama.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\veri tabanı destekli görsel programlama\veri tabanı destekli görsel programlama\obj\Debug\veri tabanı destekli görsel programlama.exe
+C:\Users\Muhammed\source\repos\veri tabanı destekli görsel programlama\veri tabanı destekli görsel programlama\obj\Debug\veri tabanı destekli görsel programlama.pdb
+C:\Users\Muhammed\source\repos\veri tabanı destekli görsel programlama\veri tabanı destekli görsel programlama\obj\Debug\veri_tabanı_destekli_görsel_programlama.Form2.resources
+C:\Users\Muhammed\source\repos\veri tabanı destekli görsel programlama\veri tabanı destekli görsel programlama\obj\Debug\veri_tabanı_destekli_görsel_programlama.login_giris.resources
+C:\Users\Muhammed\source\repos\veri tabanı destekli görsel programlama\veri tabanı destekli görsel programlama\obj\Debug\veri_tabanı_destekli_görsel_programlama.SifreDegistir.resources
